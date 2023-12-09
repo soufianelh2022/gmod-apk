@@ -41,66 +41,71 @@
   "Native": "yandex",
   "Rewarded": "yandex",
   
-  "clicks_to_show_inter": 2,
+  "clicks_to_show_inter": 1,
   "native_rate": 2,
     "onesignal_id": "xxx",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://i.ytimg.com/vi/tdJ7ojHWiVs/maxresdefault.jpg",
+	 "title": "Introduction: Setting the Stage",
+	 "text": "Briefly introduce Garry's Mod as a sandbox game developed by Facepunch Studios
+Highlight its unique features, such as the absence of predefined goals and the emphasis on user-generated content.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 1
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://i.imgur.com/GhPje3v.jpg",
+	 "title": "A Brief History of Garry's Mod",
+	 "text": "Provide a brief overview of the game's development and how it evolved over the years Mention key milestones, updates, and the community's role in shaping the game.",
+	 "text_two": "",
 
 	 "isLocked": true,
 	 "id": 2
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://i.ytimg.com/vi/pLy3wJwLxPA/maxresdefault.jpg",
+	 "title": "Gameplay Mechanics",
+	 "text": "Explain the basic mechanics of Garry's Mod, including the sandbox environment, physics engine, and the diverse range of available tools
+Discuss how players can spawn objects, manipulate the environment, and create their own game modes.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 3
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://i.ytimg.com/vi/KHtPdKi1vy0/maxresdefault.jpg",
+	 "title": "Community and Modding Scene",
+	 "text": "Emphasize the significance of the GMod community in contributing to the game's popularity
+Explore the vibrant modding scene and the plethora of user-created content, from new game modes to custom models and maps.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 4
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://i.ytimg.com/vi/6G_YGsubp-I/maxresdefault.jpg",
+	 "title": "Popular Game Modes",
+	 "text": "Highlight some of the most popular game modes within Garry's Mod, such as Trouble in Terrorist Town (TTT), DarkRP, and Prop Hunt
+Discuss what makes these game modes enjoyable and how they showcase the versatility of the GMod platform.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 5
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://i.ytimg.com/vi/vX1hj3tS_pw/maxresdefault.jpg",
+	 "title": "Challenges and Criticisms",
+	 "text": "Address any challenges or criticisms the game has faced over the years
+Discuss how the development team has responded to community feedback and improved the game.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 6
@@ -112,7 +117,22 @@
 	  {
 		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
 		"app_title": "Parchisi STAR Online",
-		"app_url": "com.superking.parchisi.star"
+		"app_url": "com.super king.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com. super king.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.super king.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.super king.parchisi.star"
 	  },
 	  {
 		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
@@ -132,27 +152,12 @@
 	  {
 		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
 		"app_title": "Parchisi STAR Online",
-		"app_url": "com.superking.parchisi.star"
+		"app_url": "com.super king.parchisi.star"
 	  },
 	  {
 		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
 		"app_title": "Parchisi STAR Online",
-		"app_url": "com.superking.parchisi.star"
-	  },
-	  {
-		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
-		"app_title": "Parchisi STAR Online",
-		"app_url": "com.superking.parchisi.star"
-	  },
-	  {
-		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
-		"app_title": "Parchisi STAR Online",
-		"app_url": "com.superking.parchisi.star"
-	  },
-	  {
-		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
-		"app_title": "Parchisi STAR Online",
-		"app_url": "com.superking.parchisi.star"
+		"app_url": "com.super king.parchisi.star"
 	  },
 	  {
 		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
