@@ -41,7 +41,7 @@
   "Native": "yandex",
   "Rewarded": "yandex",
   
-  "clicks_to_show_inter": 1,
+  "clicks_to_show_inter": 3,
   "native_rate": 2,
     "onesignal_id": "xxx",
 
