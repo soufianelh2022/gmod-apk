@@ -5,10 +5,10 @@
   "ironSource_interstitial_id": "DefaultInterstitial",
   "ironsource_rewarded_id": "DefaultRewarded",
 
-  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native": "ca-app-pub-3940256099942544/2247696110",
-  "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
+  "admob_banner": "ca-app-pub-5079091584646648/8936575728",
+  "admob_interstitial": "ca-app-pub-5079091584646648/7481374896",
+  "admob_native": "ca-app-pub-5079091584646648/1223088301",
+  "admob_rewarded": "ca-app-pub-5079091584646648/1710173462",
   
   "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -36,12 +36,12 @@
   "Ads Explanation": " yandex | applovin | admob | facebook | ironSource | unity ",
 
 
-  "Interstitial": "ironSource",
-  "Banner": "yandex",
-  "Native": "yandex",
-  "Rewarded": "ironSource",
+  "Interstitial": "admob",
+  "Banner": "admob",
+  "Native": "admob",
+  "Rewarded": "admob",
   
-  "clicks_to_show_inter": 1,
+  "clicks_to_show_inter": 2,
   "native_rate": 2,
     "onesignal_id": "xxx",
 
