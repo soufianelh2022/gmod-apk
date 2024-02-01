@@ -5,9 +5,9 @@
   "ironSource_interstitial_id": "DefaultInterstitial",
   "ironsource_rewarded_id": "DefaultRewarded",
 
-  "admob_banner": "ca-app-pub-5079091584646648/8936575728",
-  "admob_interstitial": "ca-app-pub-5079091584646648/7481374896",
-  "admob_native": "ca-app-pub-5079091584646648/1223088301",
+  "admob_banner": "ca-app-pub-5079091584646648/1404875531",
+  "admob_interstitial": "ca-app-pub-5079091584646648/5667554176",
+  "admob_native": "ca-app-pub-5079091584646648/5589902240",
   "admob_rewarded": "ca-app-pub-5079091584646648/1710173462",
   
   "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
